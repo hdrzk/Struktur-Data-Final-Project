@@ -17,7 +17,7 @@
 </ul>
 
 ## Judul Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<p>Sistem Penjualan Game, NokenzGameStore</p>
 
 ## Penjelasan Proyek
 <p>Lorem ipsum sir dolor amet.</p>
