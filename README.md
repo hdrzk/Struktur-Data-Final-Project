@@ -6,13 +6,13 @@
 
 ## Kelompok
 <ul>
-  <li>Kelompok: {kelompok}</li>
-  <li>Proyek: {proyek}</li>
+  <li>Kelompok: Kelompok 9</li>
+  <li>Proyek: Sistem Penjualan</li>
   <li>Anggota:</li>
   <ul>
-    <li>Ketua: <a href="">Ketua</a></li>
-    <li>Anggota 1: <a href="">Anggota 1</a></li>
-    <li>Anggota 2: <a href="">Anggota 2</a></li>
+    <li>Ketua: <a href="">Fahmi Fauziah Nur Fadillah</a></li>
+    <li>Anggota 1: <a href="">Haidir Mirza Ahmad Zacky</a></li>
+    <li>Anggota 2: <a href="">Moch Rizqi Nugraha</a></li>
   </ul>
 </ul>
 
