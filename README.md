@@ -29,7 +29,20 @@ Ketika pembeli memilih untuk membeli dua game sekaligus, mereka akan mendapatkan
 Dengan berbagai kategori game yang ditawarkan dan sistem diskon yang menarik. NokenzGame tidak hanya menjadi tempat untuk membeli game favorit, tetapi juga sebuah Sistem Penjualan yang menyediakan pengalaman berbelanja yang menyenangkan dan memuaskan bagi para pecinta game di seluruh dunia.</p>
 
 ## Komponen Proyek
-<p>Lorem ipsum sir dolor amet.</p>
+<ul>
+  <li>Tipe Data :</li>
+  <ul>
+    <li>ArrayList : </li>
+    <li>Anggota 1:</li>
+    <li>Anggota 2:</li>
+  </ul>
+  <li>Struktur Data :</li>
+  <ul>
+    <li>Ketua: <a href="">Fahmi Fauziah Nur Fadillah</a></li>
+    <li>Anggota 1: <a href="">Haidir Mirza Ahmad Zacky</a></li>
+    <li>Anggota 2: <a href="">Moch Rizqi Nugraha</a></li>
+  </ul>
+</ul>
 
 ## Pembagian Tim
 <p>Lorem ipsum sir dolor amet.</p>
