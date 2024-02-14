@@ -48,7 +48,18 @@ Dengan berbagai kategori game yang ditawarkan dan sistem diskon yang menarik. No
 </ul>
 
 ## Pembagian Tim
-<p>Lorem ipsum sir dolor amet.</p>
+<ul>
+  <li>Haidir Mirza Ahmad Zacky :</li>
+  <ul>
+    <li>Coding Seluruh Program dan Fitur Sistem Penjualan</li>
+  </ul>
+  
+  <li>Fahmi F. N. Fadillah & Moch Rizqi Nugraha :</li>
+  <ul>
+    <li>Menentukan Nama judul proyek</li>
+    <li>Menentukan Kategori dan Nama Game</li>
+  </ul>
+</ul>
 
 ## Demo Proyek
 <ul>
