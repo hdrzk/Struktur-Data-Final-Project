@@ -52,12 +52,14 @@ Dengan berbagai kategori game yang ditawarkan dan sistem diskon yang menarik. No
   <li>Haidir Mirza Ahmad Zacky :</li>
   <ul>
     <li>Coding Seluruh Program dan Fitur Sistem Penjualan</li>
+    <li>Menentukan Struktur Data dan Tipe Data yang di pakai</li>
   </ul>
   
   <li>Fahmi F. N. Fadillah & Moch Rizqi Nugraha :</li>
   <ul>
     <li>Menentukan Nama judul proyek</li>
     <li>Menentukan Kategori dan Nama Game</li>
+    <li>Menentukan Struktur Data yang di pakai</li>
   </ul>
 </ul>
 
