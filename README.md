@@ -32,15 +32,18 @@ Dengan berbagai kategori game yang ditawarkan dan sistem diskon yang menarik. No
 <ul>
   <li>Tipe Data :</li>
   <ul>
-    <li>ArrayList : </li>
-    <li>Anggota 1:</li>
-    <li>Anggota 2:</li>
+    <li>String  : Nama Pembeli, Kategori Game, Nama Game </li>
+    <li>Integer : ID Pembeli, Harga Game</li>
+    <li>Double  : Pembayaran Pembeli, Diskon Game</li>
   </ul>
+  
   <li>Struktur Data :</li>
   <ul>
-    <li>Ketua: <a href="">Fahmi Fauziah Nur Fadillah</a></li>
-    <li>Anggota 1: <a href="">Haidir Mirza Ahmad Zacky</a></li>
-    <li>Anggota 2: <a href="">Moch Rizqi Nugraha</a></li>
+    <li>ArrayList  : Menyimpan transaksi pembelian dan riwayat transaksi nya pada setiap pembeli dan digunakan untuk menyimpan objek-objek transaksi.</li>
+    <li>LinkedList : Menyimpan daftar pembeli serta untuk menyimpan objek pembeli dan keranjang belanja.</li>
+    <li>Tree       : Menyimpan nama game dan menghitung jumlah game yang berbeda untuk memberikan diskon.</li>
+    <li>Record     : Menampung atau Menyimpan Data Game</li>
+    <li>Searching  : Mencari data game yang sudah di beli oleh pembeli</li>
   </ul>
 </ul>
 
