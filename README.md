@@ -66,5 +66,5 @@ Dengan berbagai kategori game yang ditawarkan dan sistem diskon yang menarik. No
 ## Demo Proyek
 <ul>
   <li>Github: <a href="">Github</a></li>
-  <li>Youtube: <a href="">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/lGE2oVKS4mo?si=9ram175ixI-x8yZ7">Youtube</a></li>
 </ul>
